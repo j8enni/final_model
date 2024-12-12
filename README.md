@@ -27,6 +27,10 @@
 - **Оценка качества**:
   Тестирование гибридной системы и сравнение с результатами отдельных методов.
 
+## Обущающая выборка
+
+https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews/code?datasetId=2476732&sortBy=voteCount
+
 ## Установка
 
 1. Склонируйте репозиторий:
