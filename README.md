@@ -48,12 +48,8 @@ https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews/code?datasetI
 
 ## Использование
 
-1. Подготовьте датасет, соответствующий формату данных (см. папку `data/` для примера).
+1. Подготовьте датасет, соответствующий формату данных (https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews/code?datasetId=2476732&sortBy=voteCount).
 2. Обучите или загрузите предобученные модели из репозитория.
-3. Запустите скрипт рекомендаций:
-   ```bash
-   python recommend.py --title "The Universe and Dr. Einstein" --num-recommendations 10
-   ```
 
 ## Пример вывода
 
